@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ramanie_adm\\source\\repos\\PracticeCSharp\\PracticeCSharp\\PracticeCSharp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ramanie_adm\\source\\repos\\PracticeCSharp\\PracticeCSharp\\PracticeCSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ramanie_adm\\source\\repos\\PracticeCSharp\\PracticeCSharp\\PracticeCSharp.csproj",
+        "projectName": "PracticeCSharp",
+        "projectPath": "C:\\Users\\ramanie_adm\\source\\repos\\PracticeCSharp\\PracticeCSharp\\PracticeCSharp.csproj",
+        "packagesPath": "C:\\Users\\ramanie_adm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ramanie_adm\\source\\repos\\PracticeCSharp\\PracticeCSharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ramanie_adm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

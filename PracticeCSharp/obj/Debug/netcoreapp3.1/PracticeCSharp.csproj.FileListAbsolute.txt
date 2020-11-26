@@ -1,0 +1,13 @@
+C:\Users\ramanie_adm\source\repos\PracticeCSharp\PracticeCSharp\bin\Debug\netcoreapp3.1\PracticeCSharp.exe
+C:\Users\ramanie_adm\source\repos\PracticeCSharp\PracticeCSharp\bin\Debug\netcoreapp3.1\PracticeCSharp.deps.json
+C:\Users\ramanie_adm\source\repos\PracticeCSharp\PracticeCSharp\bin\Debug\netcoreapp3.1\PracticeCSharp.runtimeconfig.json
+C:\Users\ramanie_adm\source\repos\PracticeCSharp\PracticeCSharp\bin\Debug\netcoreapp3.1\PracticeCSharp.runtimeconfig.dev.json
+C:\Users\ramanie_adm\source\repos\PracticeCSharp\PracticeCSharp\bin\Debug\netcoreapp3.1\PracticeCSharp.dll
+C:\Users\ramanie_adm\source\repos\PracticeCSharp\PracticeCSharp\bin\Debug\netcoreapp3.1\PracticeCSharp.pdb
+C:\Users\ramanie_adm\source\repos\PracticeCSharp\PracticeCSharp\obj\Debug\netcoreapp3.1\PracticeCSharp.csprojAssemblyReference.cache
+C:\Users\ramanie_adm\source\repos\PracticeCSharp\PracticeCSharp\obj\Debug\netcoreapp3.1\PracticeCSharp.AssemblyInfoInputs.cache
+C:\Users\ramanie_adm\source\repos\PracticeCSharp\PracticeCSharp\obj\Debug\netcoreapp3.1\PracticeCSharp.AssemblyInfo.cs
+C:\Users\ramanie_adm\source\repos\PracticeCSharp\PracticeCSharp\obj\Debug\netcoreapp3.1\PracticeCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ramanie_adm\source\repos\PracticeCSharp\PracticeCSharp\obj\Debug\netcoreapp3.1\PracticeCSharp.dll
+C:\Users\ramanie_adm\source\repos\PracticeCSharp\PracticeCSharp\obj\Debug\netcoreapp3.1\PracticeCSharp.pdb
+C:\Users\ramanie_adm\source\repos\PracticeCSharp\PracticeCSharp\obj\Debug\netcoreapp3.1\PracticeCSharp.genruntimeconfig.cache
